@@ -1,4 +1,5 @@
 # outlier-detection-library
+!!!Implémentation est sur branche master!!!
 
 C'est une librarie qui comporte différents algorithmes de détection d'anomalie. Les algorithmes implémentés sont classifiés en supervisés et non supervisés
 
