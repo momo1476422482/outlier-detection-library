@@ -20,8 +20,8 @@ Deux types d'algorithmes sont implémentés :
 	  ils continuent à faire la reconstruction. L'anomalie est répérée lors que l'erreur de reconstruction est très importantes.
 		Algos implémentés : PCA,Autoencoder(convolutionnel)
 
-Pour tous les 2 types d'algo, le nombre de composants de la représentation des données est hyper important : si ce nombre est trop petit, alors aucune donnée sera reconstruite correctement,
-si ce nombre est rop grand, alors les anomalies seront également reconstruites.
+Pour tous les 2 types d'algo, le nombre de composants de la représentation des données est hyper important : si ce nombre est trop petit, alors aucune donnée ne sera reconstruite correctement,
+si ce nombre est trop grand, alors les anomalies seront également reconstruites.
 
 		
 Dans la famille des algo  supervisés :  to be updated
