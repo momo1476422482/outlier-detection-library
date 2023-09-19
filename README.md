@@ -1,10 +1,8 @@
 # outlier-detection-library
 
 
-C'est une librarie qui comporte différents algorithmes de détection d'anomalie. Les données utilisés sont MNIST;
-Les algorithmes implémentés sont classifiés en supervisés et non supervisés
-
-Dans la famille des algo non supervisés :
+C'est une librarie qui comporte différents algorithmes de détection d'anomalie. 
+Les données utilisés sont MNIST : chacune des classes digit est vu comme normale de manière successive et le reste sont considerées comme anomalies.
 
 Deux types d'algorithmes sont implémentés :
 
@@ -24,4 +22,4 @@ Pour tous les 2 types d'algo, le nombre de composants de la représentation des 
 si ce nombre est trop grand, alors les anomalies seront également reconstruites.
 
 		
-Dans la famille des algo  supervisés :  to be updated
+
